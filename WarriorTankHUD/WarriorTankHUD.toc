@@ -1,0 +1,8 @@
+## Interface: 0
+## Title: Warrior Tank HUD
+## Notes: Beta compatibility requires the client's Interface value and verified spell IDs.
+## SavedVariablesPerCharacter: WarriorTankHUDDB
+
+State.lua
+View.lua
+Core.lua
